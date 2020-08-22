@@ -3,17 +3,17 @@ body{
   margin:auto;
 }
 #quote{
-  text-align:right;
+  text-align:left;
 }
 #picture{
-  float:right;
+  float:left;
 }
-h1,H2{
+h1,h2{
   height10px;
 }
 #mainmenu{
-  text align:right;
-  background-color:yellow;
+  text-align:right;
+  background-color:chocolate;
   margin-top:20px;
   Padding:10px;
   Color:white;
