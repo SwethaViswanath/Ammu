@@ -3,7 +3,7 @@ body{
   margin:auto;
 }
 #quote{
-  text-align:right;
+  text-align:left;
 }
 #picture{
   float:right;
