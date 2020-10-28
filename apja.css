@@ -1,12 +1,13 @@
 body{
  width:60%;
  margin:auto;
+ border:1px solid;
 }
 
 #quote{
- text align:right;
+ text align:left;
 }
 
 #picture{
-  float right
+  float: right;
 }
