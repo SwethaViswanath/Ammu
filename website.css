@@ -7,7 +7,7 @@ body{
 
 #picture{
   float:left;
-  width:30%;
+  width:40%;
 }
 
 #quote{
@@ -31,20 +31,20 @@ body{
 }
 
 #about{
-  width:58%;
+  width:40%;
   height:100px;
   float:left;
 }
 
 #awardshead{
-  backgrond-color:lightgreen;
+  backgrond-color:#red;
   color:black;
   padding;10px;
   margin-bottom:0px;
 }
 
 #abouthead{
-  backgrond-color:lightgreen;
+  backgrond-color:red;
   color:black;
   padding;10px;
   margin-bottom:0px;
@@ -52,7 +52,7 @@ body{
 
 
 #marqueestyle{
-  backgrond-color:lightgreen;
+  backgrond-color:#FFEBCD;
   color:black;
   padding;10px;
   height:100px;
@@ -60,7 +60,7 @@ body{
 
 
 #aboutdesc{
-  backgrond-color:slateblue;
+  backgrond-color:#FFEBCD;
   padding;10px;
   text-align:justify;
 }    
