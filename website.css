@@ -1,8 +1,8 @@
 body{
   width:60%;
   margin:auto;
-  border:10px solid black;
-  paddig:50px;
+  border:1px solid black;
+  paddig:5px;
 }
 
 #picture{
@@ -24,8 +24,8 @@ body{
 }
 
 #awards{
-  width:40%;
-  height:100px;
+  width:50%;
+  height:50px;
   float:right;
   margin-bottom:0px;
 }
