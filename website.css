@@ -1,0 +1,66 @@
+body{
+  width:60%;
+  margin:auto;
+  border:10px solid black;
+  paddig:50px;
+}
+
+#picture{
+  float:left;
+  width:20%;
+}
+
+#quote{
+  float:right;
+}
+
+#mainmenu{
+  text-align:right;
+  background-color:red;
+  margin-top:20px;
+  padding:10px;
+  color:yellow;
+  font-weight:bold;
+}
+
+#awards{
+  width:40%;
+  height:100px;
+  float:right;
+  margin-bottom:0px;
+}
+
+#about{
+  width:58%;
+  height:100px;
+  float:left;
+}
+
+#awardshead{
+  backgrond-color:lightgreen;
+  color:black;
+  padding;10px;
+  margin-bottom:0px;
+}
+
+#abouthead{
+  backgrond-color:lightgreen;
+  color:black;
+  padding;10px;
+  margin-bottom:0px;
+}  
+
+
+#marqueestyle{
+  backgrond-color:lightgreen;
+  color:black;
+  padding;10px;
+  height:100px;
+}
+
+
+#aboutdesc{
+  backgrond-color:slateblue;
+  padding;10px;
+  text-align:justify;
+}    
