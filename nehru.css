@@ -1,0 +1,20 @@
+body{
+  width:60%;
+  margin:auto;
+  paddig:50px;
+}
+
+#picture{
+  float:centre;
+  width:20%;
+}
+
+#abuotus{
+  bgcolor:black;
+  text:white;
+  fontsize:14pt;
+}
+
+h1,h3{
+ float:centre;
+}
