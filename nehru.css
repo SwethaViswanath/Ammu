@@ -11,9 +11,7 @@ body{
 #aboutus{
   background-color:black;
   color:white;
-  fontsize:14px;
+  font-size:14px;
 }
 
-h1,h3{
- text-align:centre;
-}
+
