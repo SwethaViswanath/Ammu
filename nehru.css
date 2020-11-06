@@ -1,6 +1,7 @@
 body{
-  width:60%;
+  width:70%;
   margin:auto;
+  border:5px solid black;
 }
 
 #picture{
