@@ -4,11 +4,11 @@ body{
 }
 
 #picture{
-  float:centre;
+  float:left;
   width:100%;
 }
 
-#abuotus{
+#aboutus{
   background-color:black;
   color:white;
   fontsize:14px;
