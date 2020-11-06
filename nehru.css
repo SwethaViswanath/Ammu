@@ -6,7 +6,8 @@ body{
 
 #picture{
   float:left;
-  width:70%;
+  width:60%;
+  border:5px red;
 }
 
 #aboutus{
