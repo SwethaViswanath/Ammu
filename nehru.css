@@ -5,8 +5,8 @@ body{
 
 #picture{
   float:left;
-  width:50%;
-  border:5px solid red;
+  width:40%;
+  border:5px solid black;
 }
 
 #aboutus{
