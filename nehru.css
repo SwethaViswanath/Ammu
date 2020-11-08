@@ -1,11 +1,10 @@
 body{
   width:100%;
   margin:auto;
-  border:5px solid black;
 }
 
 #picture{
-  float:centre;
+  float:middle;
   width:90%;
   border:5px solid red;
 }
