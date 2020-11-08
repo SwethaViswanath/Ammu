@@ -5,7 +5,6 @@ body{
 }
 
 #picture{
-  float:centre;
   width:70%;
   border:5px solid black;
 }
