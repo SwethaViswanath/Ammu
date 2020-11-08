@@ -1,11 +1,12 @@
 body{
   width:70%;
   margin:auto;
+  border:5px solid black;
 }
 
 #picture{
   float:left;
-  width:40%;
+  width:50%;
   border:5px solid black;
 }
 
