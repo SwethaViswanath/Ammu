@@ -4,26 +4,31 @@
   <title>Registration Form</title>
  </head>
  <body>
-  <h1>Registration Form</h1>
   <form>
    Name:<input type="text"placeholder="your name"/><br/><br/
    Date of Birth:<input type ="date"/><br/><br/>
-   <input type="email"placeholder="your email address"/><br/><br/>
+   Email:<input type="email"placeholder="your email address"/><br/><br/>
    Password:<input type ="password"placeholder="your password"/><br/><br/>
-   Programms:
-   <input type=text list="programms"
-   <datalist Id ="programms">
-   <option value ="Computer Science"/>
-   <option value ="Physics"/>
-   <option value ="Chemistry"/>
-   <option value ="Mathematics"/>
-   <option value ="Statistics"/>
-   <option value ="English"/>
-   </datalist>
-   Languages Known:
-   Malayalam:<input type="checkbox"value="mal"checked/>
-   English:<input type="checkbox"value="eng"checked/>
-   Hindi:<input type="checkbox"value="hin"/>
+          University:
+           <select>
+		  <option>Kannur University</option>
+		  <option>Calicut University</option>
+	  	  <option>MG University</option>
+		  <option>Kerala University</option>
+	  </select><br/><br/>
+            Languages Known:
+                  (a) Malayalam:<input type="checkbox"value="(a)"checked/> <br/> <br/>
+                  (b) English:<input type="checkbox"value="(b)"checked/> <br/> <br/>
+                  (c) Hindi:<input type="checkbox"value="(c)"/> <br/> <br/>
+	   Programms:
+             <input type=text list="Programms"/>
+             <datalist Id="Programms">
+		<option value="Computer Science"/>
+		<option value="Physics"/>
+		<option value="Chemistry"/>
+		<option value="Mathematics"/> 
+                <Option value="Statistics"/>
+	     </datalist><br/><br/>
   </form>
   <a href="submit.html">Submit</a>
  </body>
