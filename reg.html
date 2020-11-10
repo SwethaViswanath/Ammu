@@ -6,7 +6,12 @@
  <body>
   <form>
    Name:<input type="text"placeholder="your name"/><br/><br/
-   Date of Birth:<input type ="Date"/><br/><br/>
+   Gender:
+   Male:<input type="radio"value="male"name="gender"/>
+   Female:<input type="radio"value="female"name="gender"/>
+   Others:<input type="radio"value="others"name="gender"/>
+   Date of Birth:<input type ="date"min="01-01-2001"/><br/><br/>
+   <textarea row="35"cols="40"placeholder="Address"required>
    Email:<input type="email"placeholder="your email address"/><br/><br/>
    Password:<input type ="password"placeholder="your password"/><br/><br/>
           University:
@@ -20,9 +25,9 @@
                   (a) Malayalam:<input type="checkbox"value="(a)"checked/> <br/> <br/>
                   (b) English:<input type="checkbox"value="(b)"checked/> <br/> <br/>
                   (c) Hindi:<input type="checkbox"value="(c)"/> <br/> <br/>
-	   Programms:
-             <input type=text list="Programms"/>
-             <datalist Id="Programms">
+	   Programmes:
+             <input type=text list="Programmes"/>
+             <datalist Id="Programmes">
 		<option value="Computer Science"/>
 		<option value="Physics"/>
 		<option value="Chemistry"/>
@@ -30,6 +35,6 @@
                 <Option value="Statistics"/>
 	     </datalist><br/><br/>
   </form>
-  <a href="submit.html">Submit</a>
+  <a href="submit.html"><input type="submit"value="Register"></a>
  </body>
 </html>
